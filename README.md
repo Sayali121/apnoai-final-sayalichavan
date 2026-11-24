@@ -2,7 +2,7 @@
 
 **Tool:** Python (Pandas + Matplotlib)  
 **Data:** 1,200 order records, 01 May 2026–28 Oct 2026  
-**Analyst:** [Your Name]
+**Analyst:** Sayali Chavan
 
 ## Project files
 - `dashboard.png` — executive dashboard screenshot
